@@ -1,9 +1,10 @@
 import React from 'react';
+import RotatableImage from './RotatableImage'
 
 function App() {
   return (
     <div className="App">
-      Panorama App
+      <RotatableImage />
     </div>
   );
 }
